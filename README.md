@@ -28,10 +28,6 @@ Em seguida, selecione a opção ‘import’ na parte superior direita.
 
 Agora busque o arquivo baixado em seu computador. 
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/38138237/150812425-5186d638-2e67-47dd-b4b3-73d7e274824d.png" />
-</p> 
-
 Por fim, selecione a opção ‘Import’
 
 <p align="center">
@@ -71,3 +67,8 @@ Após preencher os campos, clique em ‘Update’.
   <img src="https://user-images.githubusercontent.com/38138237/150828548-df5e4649-f57f-4978-8055-678fc9654fa6.png" />
 </p>  
 
+Para verificar se o template está funcionando corretamente, vá até a opção ‘Monitoring’ e selecione ‘Latest data’
+
+<p align="center">
+  <https://user-images.githubusercontent.com/38138237/150828870-6f8d0288-7106-4667-bdb3-f3c3c9361b76.png" />
+</p> 
