@@ -51,8 +51,6 @@ Escolha um nome para o host, farei o teste com o site o UOL por isso nomeei como
 
 Selecione e adicione o template.
 
-Selecione e adicione o template.
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/38138237/150828525-a0527d97-076d-4104-a8f5-ad846817c215.png" />
 </p> 
@@ -62,13 +60,21 @@ Agora vá até a opção ‘Macros’, preencha os campos, selecionando a opçã
 - **{$SITE_STRING} :** Busca uma palavra no corpo da página (Exemplo: nome do portal, palavra do cabeçalho e etc. Opte por palavras que estão na página de forma permanente, caso a palavra não seja encontrada, uma mensagem de erro é retornada, indicando que o site está offline); 
 - **{$SITE_URL} :** URL a ser monitorado.
 
-Após preencher os campos, clique em ‘Update’.
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/38138237/150828548-df5e4649-f57f-4978-8055-678fc9654fa6.png" />
-</p>  
 
 Para verificar se o template está funcionando corretamente, vá até a opção ‘Monitoring’ e selecione ‘Latest data’
 
 <p align="center">
-  <https://user-images.githubusercontent.com/38138237/150828870-6f8d0288-7106-4667-bdb3-f3c3c9361b76.png" />
+  <img src="https://user-images.githubusercontent.com/38138237/150828870-6f8d0288-7106-4667-bdb3-f3c3c9361b76.png" />
+</p>  
+
+Selecione o Host, as informações coletadas serão exibidas na parte de baixo. 
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/38138237/150828890-e5b8bc48-a15b-4ff6-a81d-4d79bcf4241a.png" />
 </p> 
+
+### Referências 
+https://www.youtube.com/watch?v=UHCOjs5vLIc
+
+https://www.youtube.com/watch?v=d4mCMKdALCs
+                                                                                                         
