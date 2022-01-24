@@ -42,4 +42,4 @@ O template foi importado com sucesso,
 
 ### **2. Testando o Template:**
 
-
+Para testar o template é preciso ter um host já configurado, caso não saiba fazer isso acesse, [zabbix.com](https://www.zabbix.com/documentation/3.0/pt/manual/config/hosts/host). 
