@@ -14,3 +14,5 @@ Para instalar o template, siga os passos abaixo.
 
 **1. Download e Importação:**\
 Após fazer download do arquivo ‘Template Web Monitoring’, disponível neste repositório, basta importar para o GitHub.
+
+Para importar, basta abrir o zabbix, acessar o menu de ‘Configuration’ e escolher a opção ‘Templates’.
