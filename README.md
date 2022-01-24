@@ -64,10 +64,10 @@ Selecione e adicione o template.
 Agora vá até a opção ‘Macros’, preencha os campos, selecionando a opção ‘Change’. 
 - **{$PORTAL} :** Nome do portal/site;
 - **{$SITE_STRING} :** Busca uma palavra no corpo da página (Exemplo: nome do portal, palavra do cabeçalho e etc. Opte por palavras que estão na página de forma permanente, caso a palavra não seja encontrada, uma mensagem de erro é retornada, indicando que o site está offline); 
-
 - **{$SITE_URL} :** URL a ser monitorado.
+
+Após preencher os campos, clique em ‘Update’.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/38138237/150828548-df5e4649-f57f-4978-8055-678fc9654fa6.png" />
-</p> 
-
+</p>  
 
