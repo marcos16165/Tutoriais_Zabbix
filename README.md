@@ -42,4 +42,32 @@ O template foi importado com sucesso,
 
 ### **2. Testando o Template:**
 
-Para testar o template é preciso ter um host já configurado, caso não saiba fazer isso acesse, [zabbix.com](https://www.zabbix.com/documentation/3.0/pt/manual/config/hosts/host). 
+Para testar o template, volte ao menu de ‘Configuração’ e selecione ’Hosts’. Na parte superior direita, selecione ‘create host’.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/38138237/150828485-538ef218-f0a0-4cd4-952e-958e987aa861.png" />
+</p>
+
+Escolha um nome para o host, farei o teste com o site o UOL por isso nomeei como ‘URL UOL’, em seguida selecione ou crie um novo grupo. 
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/38138237/150828506-12a74faf-f25c-4733-84e4-8d941fb97479.png" />
+</p> 
+
+Selecione e adicione o template.
+
+Selecione e adicione o template.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/38138237/150828525-a0527d97-076d-4104-a8f5-ad846817c215.png" />
+</p> 
+
+Agora vá até a opção ‘Macros’, preencha os campos, selecionando a opção ‘Change’. 
+- **{$PORTAL} :** Nome do portal/site;
+- **{$SITE_STRING} :** Busca uma palavra no corpo da página (Exemplo: nome do portal, palavra do cabeçalho e etc. Opte por palavras que estão na página de forma permanente, caso a palavra não seja encontrada, uma mensagem de erro é retornada, indicando que o site está offline); 
+
+- **{$SITE_URL} :** URL a ser monitorado.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/38138237/150828548-df5e4649-f57f-4978-8055-678fc9654fa6.png" />
+</p> 
+
+
